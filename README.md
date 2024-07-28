@@ -9,3 +9,11 @@ To run the app:
 ```
 flet run main.py
 ```
+Login:
+![imagen](img/inicio_sesion.png)
+
+Menu:
+![imagen](img/menu.png)
+
+Record your training data:
+![imagen](img/ingreso_datos.png)
